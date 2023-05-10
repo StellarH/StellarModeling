@@ -1,0 +1,13 @@
+ab 14
+bi 13
+en 10
+in 14
+re 36
+un 18
+--
+er 141
+or 34
+ty 46
+ly 56
+en 34
+fy 9
